@@ -5,7 +5,7 @@ hero:
   name: jameshcooper.com
   text: Official website
   image:
-    src: https://live.staticflickr.com/65535/52782651130_f3ffeac7b1_b.jpg
+    src: https://live.staticflickr.com/65535/52782651130_5149e24c27_b.jpg
     alt: Sydney
   actions:
     - theme: brand
